@@ -321,7 +321,7 @@ If you use this work, please cite:
 @misc{krishnaa2025fedrag,
   author    = {Athithya Krishnaa},
   title     = {FedRAG v4: Privacy-Preserving Federated RAG for Distributed Biomedical QA},
-  year      = {2025},
+  year      = {2026},
   publisher = {GitHub},
   url       = {https://github.com/AthithyaKrishnaa/FedRAG}
 }
