@@ -1,13 +1,5 @@
 # FedRAG v4 — Privacy-Preserving Federated RAG for Distributed Biomedical QA
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-2.11-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-1.14.1-green" />
-  <img src="https://img.shields.io/badge/Privacy-Differential%20Privacy-purple" />
-  <img src="https://img.shields.io/badge/Dataset-PubMedQA-orange" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
-</p>
 
 > **FedRAG** is a privacy-preserving federated Retrieval-Augmented Generation system for distributed biomedical question answering. It federates dense and sparse retrieval across multiple hospital nodes using differential privacy (DP) noise injection on embeddings, ensuring raw patient documents never leave their local silo.
 
