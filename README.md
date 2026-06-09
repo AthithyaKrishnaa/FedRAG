@@ -327,7 +327,3 @@ If you use this work, please cite:
 }
 ```
 
-
-<p align="center">
-  Built with FAISS · HuggingFace Transformers · PubMedQA · Differential Privacy (RDP Accounting)
-</p>
